@@ -1,4 +1,4 @@
-## 다함께 쿸! 👋
+## 다함께 쿸! 
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffff00&height=300&section=header&text=Cookudasse&fontSize=90)
 
